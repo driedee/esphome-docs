@@ -65,7 +65,7 @@ up to 8x8 matrix (i.e. 64 keys).
     :align: center
     :width: 80.0%
 
-    SX1509 pins for keypad setup (image from the datasheet).
+    SX1509 pins for keypad setup (image from the datasheet).(! wrong numbers for Column,  IO4,IO5,IO6,IO7 must be IO11, IO10, IO9, IO8) 
 
 Attention should be paid to the capabilities of the I/O pins.
 
